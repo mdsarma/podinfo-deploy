@@ -1,0 +1,1 @@
+{"jobID":"a4700fee-66a4-e248-6e6b-172e90bb7639","spec":{"type":"policy","cause":{"Message":"","User":"Manoj Devasarma \u003cmdsarma@yahoo.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
